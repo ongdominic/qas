@@ -1,0 +1,25 @@
+# Obsidian per-device state (never sync)
+.obsidian/workspace*.json
+.obsidian/plugins/obsidian-git/data.json
+.obsidian-mobile/
+.trash/
+.obsidian/cache
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+~$*
+
+# Large media: keep out of git, link instead
+*.mp4
+*.mov
+*.mkv
+*.zip
+*.7z
+
+# Secrets (never in the vault)
+.env
+*.pem
+*.key
