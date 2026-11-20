@@ -2,6 +2,8 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "00 Inbox",
   "attachmentFolderPath": "90 System/attachments",
-  "userIgnoreFilters": ["40 Archive/_import-2026-11/"],
+  "userIgnoreFilters": [
+    "40 Archive/_import-2026-11/"
+  ],
   "alwaysUpdateLinks": true
 }
