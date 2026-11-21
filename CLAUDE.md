@@ -16,6 +16,7 @@ Timezone: Asia/Singapore (SGT, UTC+8). Currency: state SGD or USD every time.
 
 ## Starting work
 - Use `/resume <name>`. Read brief → last 5 log entries → only then specific files.
+- Never read `40 Archive/_import-*/` (raw imports, old chats) unless Dom asks or a skill says so.
 - Tasks live in Trello board "QAS To Do" (to be created). Mention overdue / due-today cards at start.
 
 ## Writing rules
