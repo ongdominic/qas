@@ -9,7 +9,7 @@ vault: qas
 project: "quality-air-solutions"
 area_hint: "website-content / sales"
 routing: confident
-distilled: false
+distilled: true
 tags: [claude-import]
 ---
 # Singapore customer behavior market research
