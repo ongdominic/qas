@@ -19,6 +19,9 @@ Timezone: Asia/Singapore (SGT, UTC+8). Currency: state SGD or USD every time.
 - Never read `40 Archive/_import-*/` (raw imports, old chats) unless Dom asks or a skill says so.
 - Tasks live in Trello board "QAS To Do" (to be created). Mention overdue / due-today cards at start.
 
+## Topic discipline
+- One topic per session; this vault's topics only. If Dom raises something else (health, personal, another company, code), say which session it belongs in and offer a one-line handoff to paste there.
+
 ## Writing rules
 - Never delete; move to `40 Archive/` with `git mv`. Never overwrite; add ` (2)` on clashes.
 - Capture filenames `YYYY-MM-DD HHmm short-title.md`. No `\ / : * ? " < > | # ^ [ ]`.
